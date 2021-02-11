@@ -5,7 +5,7 @@
 </p>
 
 # Daniel Amorim
-<sub>*Data Scientist student*</sub>
+<sub>*Data Science student*</sub>
 
 Data scientist Rookie. I aim to make projects in the area, expand my knowledge doing so and refine my critical-thinking and problem solving skills in the process.
 
