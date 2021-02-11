@@ -7,7 +7,7 @@
 # Daniel Amorim
 <sub>*Data Science student*</sub>
 
-Data scientist Rookie. I aim to make projects in the area, expand my knowledge doing so and refine my critical-thinking and problem solving skills in the process.
+Data science Rookie. I aim to make projects in the area, expand my knowledge doing so and refine my critical-thinking and problem solving skills in the process.
 
 Currently studying media development(along with graphic and game design) at Univesidade Federal do Ceará, in the Sistemas e mídias digitais course.
 
