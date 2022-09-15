@@ -19,14 +19,3 @@ Currently studying media development(along with graphic and game design) at Univ
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **--:** 
-* **--:** 
-* **Data Science: Investigando o naufrágio do Titanic:** 
-
----
-
-
-
-
