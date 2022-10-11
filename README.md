@@ -18,4 +18,4 @@ Currently studying media development(along with graphic and game design) at Univ
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projetos relacionados:
